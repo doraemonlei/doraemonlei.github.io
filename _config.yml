@@ -53,7 +53,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: leiyi
 
 # Netease settings
 netease_comment: false
@@ -66,13 +66,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: https://doraemonlei.github.io/
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "For the next quantum leap<br>遇顺境，处之淡然；遇逆境，处之泰然"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
