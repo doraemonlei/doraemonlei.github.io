@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Ley Blog
+SEOTitle: 雷毅的博客 | Ley Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: leiyi9345@163.com
+description: "关于AI人工智能 | 雷毅，AI & Mobile Lover，Software Engineer | 这里是 @Ley的个人博客，与你一起发现更大的世界。"
+keyword: "雷毅，机器学习，深度学习，数字医疗"
+url: "https://doraemonlei.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     leiyi
+zhihu_username:     leiyi
+github_username:    leiyi
+twitter_username:   leiyi
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
