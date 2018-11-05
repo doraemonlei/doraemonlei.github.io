@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "工作：开发建议"
-subtitle: " \"Hello World, Hello Work\""
+subtitle: "\"Hello World\""
 date: 2018-10-11 15:56:36
 author: "doraemonlei"
 #header-img: "img/post-bg-2015.jpg"
@@ -37,7 +37,7 @@ tags: 工作 开发建议
 - 日期20181102自动生成，可以只填当日编号01，02……
 
 ### 诊断
-- 是否可以加上儿童医院主要几种疾病类型
+- 是否可以加上儿童医院几种主要疾病类型
     - 腺大
     - 扁大
     - 腺扁大
