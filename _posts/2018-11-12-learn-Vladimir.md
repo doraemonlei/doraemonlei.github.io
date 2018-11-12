@@ -10,7 +10,9 @@ categories: test
 tags: ML DL kaggle
 ---
 
-# 时间安排
+> 整理自大数据文摘专栏[“半路出家”的Kaggle Grandmaster：如何正确打开数据科学竞赛？](https://baijiahao.baidu.com/s?id=1616901585364846715&wfr=spider&for=pc)
+
+# 1 时间安排
 
 ## 1 给需要做的事情排序
 - 《优秀到不能被忽视：擅长比喜爱更重要》（So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love ）
@@ -26,7 +28,7 @@ tags: ML DL kaggle
 
 > 由 Alexander Buslaev、 Alex Parinov、Eugene Khvedchenia和我联合创办的图像增广技术资料库
 
-# 技巧
+# 2 技巧
 ## 开发系统
 - Ubuntu + i3 系统
 - 4个GPU的电脑做高负荷训练
@@ -68,7 +70,7 @@ libjpeg-turbo、PyVips
 - 排行榜筛选
 - 专业知识
 
-# 对kaggle参赛者建议
+# 3 对kaggle参赛者建议
 1. 去论坛复制借鉴一下别人的核心代码
 2. 调整一些参数，重新训练你的模型，提交你的预测结果
 3. 发展出这一种直觉，你需要能够感觉出什么方案可行或者什么方案不可行
@@ -79,7 +81,7 @@ libjpeg-turbo、PyVips
 4. 浏览论坛，看一看那些获胜者分享的解决方案，尝试着去找到更好的解决办法。当下一次你遇到了相似问题的时候，你会比现在好得多。
 5. 在不同的竞赛中一遍又一遍的尝试，你就可以到达顶峰。更重要的是，对于各种问题你都会有好的解决方法。同时，如果你在比赛、工作或者科研中遇到了一些机器学习的难题，你会拥有更好的直觉知道下一步该怎么解决。
 
-# 总结
+# 4 总结
 1. 写下你自己的策略，或者重构别人在论坛上分享的策略
 2. 这一策略需要以合适的方式囊括从输入数据到提交结果的所有过程，并定义一些交叉验证的标准。
 3. 通过结合你所定义的标准和排行榜上的排名，你可以看到自已的进步。
