@@ -613,11 +613,96 @@ C：中高级和高级
     - 宾语
 
 ## 英文句子的本质和灵魂：五大动词-五大句型
-**系动词：主语+系动词+表语**  
-**不及物动词：主语+谓语**  
-**及物动词：主语+谓语+宾语**  
-**不完全及物动词：主语+谓语+宾语+宾语补语**  
-**授予动词：主语+谓语+间接宾语+直接宾语**  
+### 系动词：主语+系动词+表语*
+**概念**    
+系动词  
+- 所谓系动词，也属于动词的一种
+- 没有实际意思
+- 比如汉语里的`是`，`为`,英语里的`am`，`is`，`are`
+- 系动词就是联系，起一个联系作用
+
+表语  
+- 在系动词之后的补充说明主语性质的部分
+
+**判断方法**  
+用中文判断这个局子里的谓语，可否用‘是’，或者‘为’来翻译  
+> i am a good teach  
+> i bacome a good person
+
+**系动词分类**  
+1. be动词
+    - am，is，are和他们对应的过去将来时态
+    - 在be动词之后，有3大类表语
+        - 名词：是
+        - 形容词：不翻译
+        - 地点副词：只能是地点副词，别的副词不行
+        > you sister is here these days  
+        > my bedroom is downsrairs
+2. 状态保持动词
+    - keep，remain,stay
+    - 这三个词后面只能加形容词作表语，可以和be无缝切换
+    > you shoule keep quit  
+    > no one can remain youthful forever  
+    > the weather stayed fine for a week
+3. 状态转变动词
+    - become，get,go,come,grow,turn
+    - become变成+名词；变得+形容词
+    - get变得怎样+形容词
+    - come变好
+    > thing will come right
+    - go变坏
+    > the meat always gose bad in summer  
+    - grow慢慢变
+    > the weather grew cold in the night
+    - turn快速变
+    > his face turned pale
+4. 感官动词
+    - look,sound,smell,taest,feel
+    - 翻译为“……起来”+形容词作表语
+    - 感官动词+介词like+名词，翻译为“像……”
+
+```shell
+练习
+everyhing is in good order
+my house is here
+the car looks very good
+alligator meat tastes like chicken
+you should keep calm during an earthquake
+mike became a professional basketball player last year
+the weather has turned cold and windy
+```
+
+### 不及物动词：主语+谓语 
+**概念**  
+- 简称vi. intransitive verb
+- 本身意思就很完全，没有作用对象，不需要加宾语就能构成完整的句子
+
+**判断方法**  
+把这个词前面加上“被”，看正常不正常，正常为及物动词，不正常为不及物动词
+
+**句型注意事项**  
+- 一般来说都带有状语，进一步说明这个动作发生的时间，地点，目的
+- 很多动词，本省就既可以做不及物动词也可以做及物动词，得在具体语境中判断
+
+```shell
+练习
+birds singing happily
+the raining will stop afternoon
+children playing in the park
+my teacher passed away in the hosoital yesterday
+
+the birds sing happily
+the rain will stop in the afternoon
+the children are playing in the park
+my teacher passed away in the hospital yesterday
+
+```
+
+### 及物动词：主语+谓语+宾语
+**概念**  
+
+### 不完全及物动词：主语+谓语+宾语+宾语补语  
+### 授予动词：主语+谓语+间接宾语+直接宾语 
 
 
 # <span id='15'>3. 英语简单句的造句法则和基本语法概念(下)</span>
