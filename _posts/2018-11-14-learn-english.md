@@ -695,7 +695,6 @@ the birds sing happily
 the rain will stop in the afternoon
 the children are playing in the park
 my teacher passed away in the hospital yesterday
-
 ```
 
 ### 及物动词：主语+谓语+宾语
@@ -712,11 +711,65 @@ the bird covered the distance in three minutes
 
 the bride and the groom cut the wedding cake together
 
-i had an amusing ecpr
-```
-### 不完全及物动词：主语+谓语+宾语+宾语补语  
-### 授予动词：主语+谓语+间接宾语+直接宾语 
+i had an amusing ecperience last year
 
+this wonderful plane can carry seven passengers
+```
+
+```shell
+练习
+the teacher put on some photos on the wall
+you should respect olders in public
+he begin to deit one week ago
+he created a new world record in sep 1935
+only few people can relise their dream  
+
+the teacher put up some pictures on the wall in the classroom
+you should respect the old in public places
+he began his deit a week ago
+he set up a new world record in september 1935
+only very few people can realize their dreams
+```
+### 不完全及物动词：主语+谓语+宾语+宾语补语 
+**概念**  
+不完全及物动词  
+incomplete transitive verb i.vt,这种动词加上宾语以后，意思仍然不完全，需要加上补语（complement）才能使句子完整。
+
+补语  
+补充说明宾语的特征，或者宾语的动作  
+
+**常用的不完全及物动词：使役动词**  
+- make,have,let,get
+- make,have,let+宾语+动词原形（补语）
+- get+宾语+动词不定式（补语）
+- 只要是宾语发出的动作或宾语的状态，均可构成此类矩形
+
+```shell
+the hot weather make me fell lethargic
+
+the hot weather made me fell lethargic
+```
+
+### 授予动词：主语+谓语+间接宾语+直接宾语 
+**概念**  
+授予动词  
+dative verb，d.v. ,是及物动词的一种，但需要接两个宾语，第一个为间接宾语（indirect object,i.o.）,表示授予的对象，第二个宾语为直接宾语（direct object，d.o.）表示授予的东西。
+
+**注意**  
+直接宾语和间接宾语都是谓语动作的作用对象，这是与第四大句型的区别。在第四大句型中，补语是说明宾语的性质，或者宾语发出的动作。
+
+**常用的授予动词**  
+- give，send,tell,teach,pay,show,offer
+
+```shell
+he give some flowers of his girlfriend on 
+please send me a 
+he told me some magic stories about his english teacher
+
+he gave a bunch of flowers to his girlfriend on Valentine's Day
+please send me a receipt for the money
+he told me some magical stories about our English teacher
+```
 
 # <span id='15'>3. 英语简单句的造句法则和基本语法概念(下)</span>
 
