@@ -613,7 +613,7 @@ C：中高级和高级
     - 宾语
 
 ## 英文句子的本质和灵魂：五大动词-五大句型
-### 系动词：主语+系动词+表语*
+### 系动词：主语+系动词+表语
 **概念**    
 系动词  
 - 所谓系动词，也属于动词的一种
@@ -700,7 +700,20 @@ my teacher passed away in the hospital yesterday
 
 ### 及物动词：主语+谓语+宾语
 **概念**  
+- 简称vt. transitive verb
+- 加了宾语以后意思很完全的词，有主动和被动两种语态
+- 有些短语相当于及物动词，称为及物动词短语
 
+```shell
+例句
+yesterday,a pigeon carried the first message from Pinhurst to Silbury
+
+the bird covered the distance in three minutes
+
+the bride and the groom cut the wedding cake together
+
+i had an amusing ecpr
+```
 ### 不完全及物动词：主语+谓语+宾语+宾语补语  
 ### 授予动词：主语+谓语+间接宾语+直接宾语 
 
