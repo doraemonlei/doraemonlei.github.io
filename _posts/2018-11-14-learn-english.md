@@ -345,7 +345,7 @@ C：中高级和高级
     - 细节化
     - 例句和知识点背熟
 
-### <font color='red'>量阅读和积累词汇</font>大
+### <font color='red'>大量阅读和积累词汇</font>
 1. <font color='red'>入门熟悉</font>
     - 培养适应和成就感，看完就行
     - 谁动了我的奶酪 who moved my cheese
