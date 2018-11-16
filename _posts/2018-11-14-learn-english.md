@@ -102,9 +102,9 @@ tags: 学习 英语
 
 ## 材料
 - 概述
-    - 赖世雄美语从头学
-    - 顺序：发音，入门，初级，中级，语法
-- 学习犯法
+    - <font color='red'>赖世雄美语从头学</font>
+    - <font color='red'>顺序：发音，入门，初级，中级，语法</font>
+- 学习方法
     - 集中精力
     - 认真听录音，做笔记
     - 模仿录音，熟练于心
@@ -141,7 +141,7 @@ tags: 学习 英语
     - 商业材料听力，商业领域用法和词汇积累 1-2月
 1. 正音
     - 概述
-        - 赖世雄美语音标
+        - <font color='red'>赖世雄美语音标</font>
         - 过几遍
     - 方法
         - 1 看书听cd不要暂停，跟着大声模仿，把书过2-3遍
@@ -149,7 +149,7 @@ tags: 学习 英语
         - 3 找出重难点章节，反复听讲和模仿
 2. 日常口语和语流联系
     - 概述
-        - eee 716期
+        - <font color='red'>eee 716期</font>
         - 多看几遍+模仿
     - 方法
         - 多看几遍，跟着模仿
@@ -157,7 +157,7 @@ tags: 学习 英语
 3. 商业材料听力，商业领域用法和词汇积累
     - 概述
         - 补充，可学可不学
-        - eslpod教材
+        - <font color='red'>eslpod教材</font>
         - 面试问题回答
         - 英文会议
         - 工作常用英文
@@ -193,7 +193,7 @@ tags: 学习 英语
 - 3-4个月
 - 同时学习
 
-1. daily dictation
+1. <font color='red'>daily dictation</font>
     - 概述：
         - 是一套视频教程，300期
         - eee进阶版
@@ -203,7 +203,7 @@ tags: 学习 英语
         - 1 认真听写，认真看讲解，主动跟着朗读
         - 2 2-3个月学完150期
         - 3 生词复习
-2. englishpod
+2. <font color='red'>englishpod</font>
     - 概述
         - 英语广播节目
         - 固定主题
@@ -252,7 +252,7 @@ tags: 学习 英语
     - 只记忆语块的单个意思
 
 ## 中级学习的具体学习流程规划
-1. 毕业典礼演讲精读模仿
+1. <font color='red'>毕业典礼演讲精读模仿</font>
     - 侧重点：积累词汇量，提高表达法。掌握语体概念。
     - 语体：在适当的场合，使用适当的语言。
     - 优点：简单叙述体；语速慢，内容简单实用；日常口语和商务口语
@@ -267,7 +267,7 @@ tags: 学习 英语
         - 至少听完30-50篇，每篇精读
         - 收集视频和文本，打印
         - 看一遍视频，基本理解，拿出文本，仔细阅读，标出不认识的单词搭配和好的搭配短语
-2. 大量泛听美剧
+2. <font color='red'>大量泛听美剧</font>
     - 不管能否全部看懂，看画面猜剧情
     - 找生肉片源，挂英文字幕
     - 材料：美剧推荐
@@ -285,7 +285,7 @@ tags: 学习 英语
         - 雪山镇 everwood
         - 篮球兄弟 one tree hill
         - 邪恶力量 supernatural
-3. 口语实战：复述幽默短文
+3. <font color='red'>口语实战：复述幽默短文</font>
     - 优点：口语流利性，造句能力，时态运用，语法运用，主动词汇掌握
     - 方法：
         - 切入视角POV复述：以不同人的视角来进行复述，复述时始终保持第一人称口吻
@@ -300,10 +300,10 @@ tags: 学习 英语
         - 2 复述时中规中矩
         - 3 注意语法和时态，用原文时态
     - 材料：
-        - 新概念2和3
-        - [读幽默故事学英语词汇全套6册](https://pan.baidu.com/s/1qWLKBZu)
-        - 世界幽默故事精选123（难）
-4. 通俗小说：复述的同时阅读
+        - <font color='red'>新概念2和3</font>
+        - <font color='red'>[读幽默故事学英语词汇全套6册](https://pan.baidu.com/s/1qWLKBZu)</font>
+        - <font color='red'>世界幽默故事精选123（难）</font>
+4. <font color='red'>通俗小说：复述的同时阅读</font>
     - 材料：
         - sidney sheldon 
         - james hadley chase
@@ -335,7 +335,7 @@ C：中高级和高级
 - 各类考试阅读题和写作题能拿高分
 
 ## 具体的方法规划
-### 语法
+### <font color='red'>语法</font>
 1. 赖世雄经典语法
     - MP3听讲+阅读文本
     - 造句理解长难句
@@ -345,8 +345,8 @@ C：中高级和高级
     - 细节化
     - 例句和知识点背熟
 
-### 大量阅读和积累词汇
-1. 入门熟悉
+### <font color='red'>量阅读和积累词汇</font>大
+1. <font color='red'>入门熟悉</font>
     - 培养适应和成就感，看完就行
     - 谁动了我的奶酪 who moved my cheese
     - 礼物 the present
@@ -355,7 +355,7 @@ C：中高级和高级
     - 秘密 the secret
     - 富爸爸穷爸爸 rich dad poor dad
 
-2. 自传
+2. <font color='red'>自传</font>
     - 奉上幸福 delivering happiness
     - iWoz自传
     - 职场小百科，杰克韦尔奇
@@ -365,12 +365,12 @@ C：中高级和高级
         - 别闹了费曼先生 surely you're joking,mr. frynman!
         - 你管别人怎么想 what do you care what other people think?
 
-3. 传记
+3. <font color='red'>传记</font>
     - 史蒂夫乔布斯传 steve jobs（walter isaacson）
     - the second coming of steve jobs
     - 本杰明富兰克林传 benjamin franklin an american life
 
-4. 社科
+4. <font color='red'>社科</font>
     - alvin toffler 阿尔文托夫勒
         - power shift
         - future shock
@@ -389,9 +389,9 @@ C：中高级和高级
 - 写作还算可以，但与人沟通，不能随心所欲
 
 ## 学习原理和大致案例
-**精细学习：精读美剧**  
+**<font color='red'>精细学习：精读美剧</font>**  
 
-1. 精读美剧：波士顿法律（律师本色衍生剧）
+1. <font color='red'>精读美剧：波士顿法律（律师本色衍生剧）</font>
     - 生肉，5季
     - 剧本，pdf
     - 看十遍以上，读剧本，查生词，记笔记，
@@ -404,26 +404,26 @@ C：中高级和高级
 6. 吉尔莫女孩 gilmore girls
 7. 雪山镇 everwood
 
-**中国主题的语块学习法**  
+**<font color='red'>中国主题的语块学习法</font>**  
 
 1. 外国人写的书
-    - 何伟三部曲
+    - <font color='red'>何伟三部曲</font>
         - river town 江城
         - oracle bones
         - country driving
-    - factory girls 打工女孩
-    - modern china 
-    - james mcgregor
+    - <font color='red'>factory girls 打工女孩</font>
+    - <font color='red'>modern china</font>
+    - <font color='red'>james mcgregor</font>
         - one billion customers
         - no ancient wisdom,no followers
-    - evan osnos
+    - <font color='red'>evan osnos</font>
         - age of ambition
 2. 报刊
     - 外交政策
-    - ★美国cnn官网
-    - ★美国bbc官网
+    - <font color='red'>★美国cnn官网</font>
+    - <font color='red'>★美国bbc官网</font>
     - 金融时报
-    - ★经济学人
+    - <font color='red'>★经济学人</font>
     - 南华早报
     - 中国来信
 
