@@ -745,6 +745,7 @@ incomplete transitive verb i.vt,这种动词加上宾语以后，意思仍然不
 - 只要是宾语发出的动作或宾语的状态，均可构成此类矩形
 
 ```shell
+练习
 the hot weather make me fell lethargic
 
 the hot weather made me fell lethargic
@@ -762,6 +763,7 @@ dative verb，d.v. ,是及物动词的一种，但需要接两个宾语，第一
 - give，send,tell,teach,pay,show,offer
 
 ```shell
+练习
 he give some flowers of his girlfriend on 
 please send me a 
 he told me some magic stories about his english teacher
@@ -772,6 +774,132 @@ he told me some magical stories about our English teacher
 ```
 
 # <span id='15'>3. 英语简单句的造句法则和基本语法概念(下)</span>
+## 英语句子成分和汉语句子成分的区别
+- 汉语：
+    - 八种句子成分
+    - 主语、谓语、宾语、表语、定语、状语、补足语和同位语
+- 英语：
+    - 七种句子成分
+    - 主语、谓语、宾语、表语、补语、定语、状语
+    - 造句方面，尤其是主从句和时态等方面，基本就是说一是一，不会有什么特殊情况。
+
+## 汉语造句练习和英语造句练习的区别
+- 汉语：
+    - 组词
+    - 造句
+    - 丰富主动词汇
+    > 螃蟹在剥我的壳，笔记本在写我，漫天的我落在枫叶上雪花上，而你在想我。
+
+- 英语：
+    - 句式
+
+## 像伟人那样学英语，要点是什么？
+- 提高写作，提升自己的逻辑思考能力
+- 改善逻辑，最好的方法，就是学语法
+
+丘吉尔的成功案例
+- 使用各种彩笔把冗长的复句中的各种句子成分一一标示出来
+
+想像首相一样学英语，你得先明白
+- 中文语法和英文语法的不同
+- 明白句子成分有哪些，各自有什么意思
+
+## 首相的英语学习方法
+- 了解句子成分的具体含义识别出句子的不同成分
+- 学习时态，语态等基础知识
+- 学习从句的构句方法，把长句子中的各句子成分摘出，然后再把不同的句子成分组合
+- 用彩色笔标注不同的句子成分，从句子相关成分中，积累相关用法
+- 把复杂句拆成若干个简单句，找出主语谓语宾语，根据规则，将简单句拼成长句子
+
+## 7大英语句子成分概述
+### 内容回顾
+- 主语：句子的主人
+- 谓语：表达主语动作状态
+- 宾语：客体，受体
+- 表语：表达主语具体情况
+- 补语：补充说明宾语
+
+### 标注方法
+- 小括号()标注定语
+- 中括号<>标注状语
+
+### 定语
+**概念**  
+一个句子里用来限定、界定名词的部分。
+
+**什么语法成分能够作定语？**  
+- 形容词以及相当于形容词性质的语法成分
+- “……的”
+
+**英语95%的定语遵循“前小后大”规则**  
+- 1个单词组成的定语（限定词，形容词，名词和名词所有格），放在所修饰名词的前面
+- 2个以上单词组成的定语（of属格，形容词短语，介词短语，分词短语，不定式短语），放在所修饰词后面
+
+```shell
+例
+they were expecting (a) (valuable) parcel (of diamonds) (from South Africa)
+
+Mrs. Rumbold was (a) (large), (unsmiling) lady (in a tight black dress)
+
+first of all, he wrote out (a) (long) list (of all the foods)
+```
+
+```shell
+练习
+i like the book on the desk
+they are studying a complete resrarch about trading standard
+i will tell you a very funny chinese ancient story last night my English teacher had told me about moon
+
+i like the English book on the table
+they studying a complicated problem about trading standard
+i will tell you a very interesting old Chinese story about the moon that my teacher told me yesterday
+```
+
+### 状语
+**概念**  
+- 用来描述一个动作的细节特征的成分，汉语里常见的对应成分，就是“……地”
+- 表达时间，地点，方式的状语，也可以不带“地”
+- 副词：adverb，状语：adverbial，都是用来加强动词verb的。
+- 除了修饰动词外，状语也可以修饰除了名词之外的任何词
+    - 形容词
+    - 介词
+    - 连词
+    - 副词本身
+
+**什么语法成分能够作状语？**  
+- 副词以及相当于副词的语法成分
+- where，when，how，how much
+
+**状语位置规则**  
+- 小状语：
+    - 单独的副词
+    - 放置在所修饰的词语之前
+    - 如有需要，小状语可以放在句子中的任何位置
+- 大状语：
+    - 2个及以上单词构成的状语，如介词短语，不定式短语，状语从句
+    - 放置在整个句子的两头，放在开头时，一般加上逗号
+- 补充：
+    - 句中同时出现几个时间或者地点状语时，从小到大
+    > we landed in American at 8 o'clock on June 15th,2012  
+    > we live at number 35,South Renmin Road,Chengdu
+    - 句子后面有多种状语时，顺序：方式，地点，时间
+    > he put his milk bottles carefully on the doorstep every morning
+
+### 同位语
+**概念**  
+- 句子中指代同一个事物的两个词、短语或从句
+- 不属于单独的7大句子成分，和名词成分（主语，宾语，表语）是并列关系。相当于对该名词的进一步解释说明，名词或任何相当于名词的成分，均可作同位语。
+
+```shell
+练习
+my English teacher,Mr. Brent Peyer is a Canadian
+last day,i met Tom,a friend of my brother
+we Chinese people is and brave
+
+my English teacher, Mr. Brent Peyer, is a Canadian
+yesterday I met Tom,a friend of my brother's
+we Chinese people are hardworking and brave
+```
 
 # <span id='16'>4. 说和写英文的时候，如何避免犯时态错误</span>
 
