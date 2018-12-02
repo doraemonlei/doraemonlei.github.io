@@ -902,6 +902,295 @@ we Chinese people are hardworking and brave
 ```
 
 # <span id='16'>4. 说和写英文的时候，如何避免犯时态错误</span>
+## **学习时态的难点和原因**
+- 汉语和英语的语言结构上有本质的不同
+- 教科书的时态这部分内容故弄玄虚，非常繁琐，在关键之处语焉不详
+
+## **时态的本质**
+- 时间和状态（tense and aspect）
+- 在时间轴上，时间是横向的，状态是纵向的
+
+时间  
+- 现在时 present（不是指现在这个时间点，而是指常态，）
+- 过去时 past
+- 将来时 tuture
+
+谓语动词状态
+- 一般 simple（强调动作发生的时间，而非状态）
+- 进行 continuous（强调动作的过程**描绘，生动性**）
+- 完成 pefect（强调动作的结果**逻辑推导性**）
+- 完成进行 perfect continuous（强调动作的结果和过程）
+
+一般态
+- 一般现在时
+- 一般过去时
+- 一般将来时
+
+进行态
+- 现在进行时
+- 过去进行时
+- 将来进行时
+
+完成态
+- 现在完成时
+- 过去完成时
+- 将来完成时
+
+完成进行态
+- 现在完成进行时
+- 过去完成进行时
+- 将来完成进行时
+
+过去将来时
+- 过去将来时
+- 过去将来进行时
+- 过去将来完成时
+- 过去将来完成进行时
+
+## **词形变化构成**
+- 一般：比较简单
+- 进行：be+现在分词（be按照3时及主语人称变化）
+- 完成：have+过去分词（have按照3时及主语人称变化）
+- 完成进行：have been+现在分词（have按照3时及主语人称变化）
+
+以动词do为例子  
+进行  
+- 现在进行 am/is/are doing
+- 过去进行 was/were ding
+- 将来进行 will be doing
+
+完成
+- 现在完成 have/has done
+- 过去完成 had done
+- 将来完成 will have done
+
+完成进行
+- 现在完成进行 have/has been doing
+- 过去完成进行 had been doing
+- 将来完成进行 will have been doing
+
+## **16种时态的详细讲解**
+### **一般态：强调动作本身**
+只强调动作发生的时间，不强调动作的状态，就是说它只关心这个动作是发生在过去，现在，还是将来，不关心这件事有没有做好 
+
+**和进行态的区别**  
+- i walk to school
+- i'm walking to school
+
+**一般现在时**  
+1. 表示事物现在的情况或状态（主系表句型）
+    - i am a doctor
+    - you are an unrepeatable miracle
+2. 表示经常性，习惯性的动作（常有时间副词修饰）
+    - i never get uo early on Sunday,I sometimes stay in bed until lunch time
+    - never,often,always
+3. 表示客观真理，格言
+    - time flies
+    - the early bird catches the worm
+    - failure is the mother of success
+
+**一般过去时**
+- 表示过去的动作，习惯，事实  
+- last Sunday I got up very late,I looked out of the window. It was dark outside
+- 一般过去时常使用过去具体时间的副词，yesterday,last week,two years ago,in 1988  
+
+**一般将来时**  
+1. 表示将来发生的动作或状态，或倾向（will为将要）
+    - he will soon visit Drawin.From there,he will fly to Perth
+    - people will run into problems in their lives
+    - a small leak will sink a gerat ship千里之堤毁于蚁穴
+2. be going to+动词原形也表示将来，但多表示计划，主语多是人，will表示意愿时，主语是人，但也可表示预测，主语为物
+    - Mr. Thompson is going to sell it because it is haunted(闹鬼)
+3. be about to+动词原形，表示即将……
+    - he is about to leave for Beijing
+
+<pre>
+<code class="language-shell">练习
+the shop is open whole day
+my grandfather walks at the park in the morning everyday
+i was very boring yesterday and watched movie with some friends  
+he will go to New York tomorrow
+look!the ship is about to leap
+we will eat lunch right now
+the sun raise from east and go from west
+i go to exercise twice a week 
+i looked him in library yesterday morning
+i am going to learn computer science
+
+this convenience store is open 24 hours a day
+my grandfather takes a walk in the park every morning
+i felt bored yesterday,so i went to the movies with several friends
+he will go to New York tomorrow
+look!the boat is about to sink(沉没)
+we are going to have lunch soon
+the sun rises in the east and sets in the west
+i go to the gym twice a week
+i saw him in the library yesterday morning
+i am going to learn the computer science
+</code></pre>
+
+### **进行态：强调动作的过程**
+在英语中，按照动作发生的时间长短，动词分成了延续性动词和瞬间动词  
+they married last week  
+they are having a wedding ceremony  
+
+进行态其实就是一般态的生动模式，任何一个进行态的句子，都可以改成一般态，一般态却不一定能改成进行态，只有动词是延续性动词才能改  
+**现在进行时**  
+1. 表示现在正在做的动作，此时be动词为**正在**  
+    - he is playing basketball
+    - 主系表矩形在口语中常用一般现在时，但如果要强调此时的状态，可以用现在进行时
+        - you are very rude!
+        - you are being very rude你现在的行为粗鲁，而不是你这个人本来就粗鲁
+2. 表示即将发生的动作（通常表示**位移**短暂动词come,go,arrive,leave,atart,begin,return,die,take）,此时be动词为**即将**
+    - 'we are going back now,'said the conductor
+
+**过去进行时**  
+1. 表示过去某时正在做的事
+    - a man was lying in the box during the fight
+
+**将来进行时**
+1. 表示将来某时将进行的动作
+    - they will be arriving here tomorrow
+
+<pre>
+<code class="language-shell">练习
+what are you doing under the desk?
+the phone is ringing when i was dreaming about you
+my father will be mowwing the lawn this time tomorrow morning
+my daughter is learning,so you'd better not to bother her
+i will be studying in American next year this time
+
+what are you doing under the table?
+i was dreaming about you when the telephone rang
+my dad will be mowing the lawn at this time tomorrow morning
+my daughter is studying,so you'd better not bother her
+i'll be studying in the United States at this time next year
+</code></pre>
+
+### **完成态：强调动作的结果**
+中国人最容易用错的3个短暂动词:  
+他去北京3天了  
+- he has go to Beijing
+
+他结婚已经3年了  
+- he has married
+
+他已经死了3年了  
+- he has died
+
+要正确表达，必须使用对应的主系表句型，因为系动词是可以延续的，用主系表矩形表示状态，才能加表示一段时间的状语    
+他去北京3天了  
+- he has go to Beijing
+- he has been to Beijing for 3 years  
+
+他结婚已经3年了
+- he has married
+- he has been married for 3 years
+
+他已经死了3年了
+- he has died
+- he has been dead for 3 years
+
+**现在完成时**  
+1. 表示到现在为止已经完成的动作（发生时间不明）
+    - i have just received a letter from my brother,Tim
+2. 如果是延续性动词，表示持续到现在的动作或状态。注意，be动词是可延续的
+    - she has lived here for 10 years
+    - he has been there for six months
+    - i have been to the Great Wall
+3. 现在完成时常用时间副词
+    - 自从 since+时间点
+    - 有若干时间之久 for+时间段
+    - 到目前为止 so far/up to now
+    - 最近 recently/lately
+    - 一次/两次/几次/多次 once/twicea few times/many times
+    - 过去若干年/月/日以来 over/during/for+the last/past+数字+years/months/days
+
+**过去完成时**  
+- 表示截止过去某时为止所完成的动作或经验（过去完成时不能单独存在，要与另一使用一般过去时的句子或者表示过去的副词短语连用），had为**已经，曾经**  
+- my old friend,Harrison,had lived in the Mediterranean for many years before he returned to England
+
+**将来完成时**  
+- 表示到将来某时为止所完成或仍然继续的动作或经验等（常与介词by构成的时间状语连用，表示到……的时候）
+- workers will have completed the new roads by the end of this year
+
+<pre>
+<code class="language-shell">练习
+1．彼得去过香港很多次。
+2．进入初中以来，我对英语很狂热。（ be crazy about）
+3．到目前为止，我已经完成这项计划的三分之二。
+4．我最近很忙，恐怕要到下周一我才有空。
+5．过去5年来，这个好孩子都尽力照顾他生病的母亲。
+6．史密斯先生搬来这里之前已经在加拿大住了20年。
+7．等我到达车站时，火车已经开走了。
+8．玛丽昨天告诉我她很久以来一直想出国旅游。
+9．我很生气，因为我女朋友又对我爽约了。stand sb．up
+10．明天这个时候，约翰将已经达到芝加哥了。
+
+peter has been to Hong Kong many times
+i have been crazy about English since i entered junior high school
+so far,i have finished two third of the project
+i have been very busy recently,i'm afraid that i won't be free until next Monday
+over the past 5 years,the good boy has tried his best to take care of his ill mother
+
+Mr. Smith had lived in Canada for 20 years before he moved here
+by the time i got to the station, the train had left
+Mary told me yesterday that she had long wanted to travel abroad
+i was very angry because my girlfriend had stood me up again
+John will have arrived in Chicago by this time tomorrow
+</code></pre>
+
+### **完成进行态：同时强调动作的结果和过程（延续性动词）**
+任何完成时态，都能改为完成态，但是完成态不一定能改成完成进行态，必须是延续动词，才能改。  
+
+**延续性动词**  
+我收到一封信
+- i have received a letter
+
+我住在北京3年了
+- i have lived in Beijing for three years
+- i have been living in Beijing for three years
+
+**现在完成进行时**  
+- 表示一直持续到现在，且可能继续下去的动作（通常和表示时间段的副词连用，for，since,all morning）
+- we have just moved into a new house and i have been working hard all morning
+
+**过去完成进行时**  
+- 表示一直持续到过去某时，而当时仍然在继续的动作（必须有表示过去的时间状语）
+- the plane had been planting seed for nearly a month when it began to rain
+
+**将来完成进行时**  
+- 一直持续到将来某时，且可能继续下去的动作
+- by the time you come back tonight,i will have been sleeping for five hours
+
+<pre>
+<code class="language-shell">练习
+1．约翰自去年起就一直学日语，他希望去日本留学
+2．Lulu的车子抛锚时，她已经持续开了8个小时了
+3．到今年年底，王老师教我英语将有10年了
+
+John has been learning Japanese since last year.He expects to study in Japan in the future
+by the time her car broke down,Lulu had been driving for 8 hours
+Mr. Wang will have been teaching English for 10 years by the end of this year
+</code></pre>
+
+### **过去将来时**
+过去将来时通常多用于叙述性故事中，或间接引语中
+- he said that it would be possible to build a platform in the centre of the Channel一般
+- she said she would be setting off on the 10 o'clock train进行
+- i guessed that Helen would have told her something完成
+- He told me that by the end of the year he would have been living there for thirty years完成进行态
+
+<pre>
+<code class="language-shell">练习
+1．在信中她说明年将到英国来
+2．他问我明天上午10点我将干什么
+3. 他告诉我们他会在8点以前干完工作
+
+in the letter, she said that she would come to Engilsh next year
+he asked me what i should be doing at 10 a.m. the next day
+he told us he would have finished the work by 8 o'clock
+</code></pre>
 
 # <span id='17'>5. 英文造句的被动结构</span>
 
