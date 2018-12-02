@@ -684,8 +684,8 @@ the weather has turned cold and windy
 - 一般来说都带有状语，进一步说明这个动作发生的时间，地点，目的
 - 很多动词，本省就既可以做不及物动词也可以做及物动词，得在具体语境中判断
 
-```shell
-练习
+<pre>
+<code class="language-shell">练习
 birds singing happily
 the raining will stop afternoon
 children playing in the park
@@ -695,7 +695,7 @@ the birds sing happily
 the rain will stop in the afternoon
 the children are playing in the park
 my teacher passed away in the hospital yesterday
-```
+</code></pre>
 
 ### 及物动词：主语+谓语+宾语
 **概念**  
@@ -703,8 +703,8 @@ my teacher passed away in the hospital yesterday
 - 加了宾语以后意思很完全的词，有主动和被动两种语态
 - 有些短语相当于及物动词，称为及物动词短语
 
-```shell
-例句
+<pre>
+<code class="language-shell">例句
 yesterday,a pigeon carried the first message from Pinhurst to Silbury
 
 the bird covered the distance in three minutes
@@ -714,10 +714,10 @@ the bride and the groom cut the wedding cake together
 i had an amusing ecperience last year
 
 this wonderful plane can carry seven passengers
-```
+</code></pre>
 
-```shell
-练习
+<pre>
+<code class="language-shell">练习
 the teacher put on some photos on the wall
 you should respect olders in public
 he begin to deit one week ago
@@ -729,7 +729,8 @@ you should respect the old in public places
 he began his deit a week ago
 he set up a new world record in september 1935
 only very few people can realize their dreams
-```
+</code></pre>
+
 ### 不完全及物动词：主语+谓语+宾语+宾语补语 
 **概念**  
 不完全及物动词  
@@ -744,12 +745,13 @@ incomplete transitive verb i.vt,这种动词加上宾语以后，意思仍然不
 - get+宾语+动词不定式（补语）
 - 只要是宾语发出的动作或宾语的状态，均可构成此类矩形
 
-```shell
-练习
+<pre>
+<code class="language-shell">练习
 the hot weather make me fell lethargic
 
 the hot weather made me fell lethargic
-```
+</code></pre>
+
 
 ### 授予动词：主语+谓语+间接宾语+直接宾语 
 **概念**  
@@ -762,8 +764,8 @@ dative verb，d.v. ,是及物动词的一种，但需要接两个宾语，第一
 **常用的授予动词**  
 - give，send,tell,teach,pay,show,offer
 
-```shell
-练习
+<pre>
+<code class="language-shell">练习
 he give some flowers of his girlfriend on 
 please send me a 
 he told me some magic stories about his english teacher
@@ -771,7 +773,8 @@ he told me some magic stories about his english teacher
 he gave a bunch of flowers to his girlfriend on Valentine's Day
 please send me a receipt for the money
 he told me some magical stories about our English teacher
-```
+</code></pre>
+
 
 # <span id='15'>3. 英语简单句的造句法则和基本语法概念(下)</span>
 ## 英语句子成分和汉语句子成分的区别
@@ -835,17 +838,17 @@ he told me some magical stories about our English teacher
 - 1个单词组成的定语（限定词，形容词，名词和名词所有格），放在所修饰名词的前面
 - 2个以上单词组成的定语（of属格，形容词短语，介词短语，分词短语，不定式短语），放在所修饰词后面
 
-```shell
-例
+<pre>
+<code class="language-shell">例
 they were expecting (a) (valuable) parcel (of diamonds) (from South Africa)
 
 Mrs. Rumbold was (a) (large), (unsmiling) lady (in a tight black dress)
 
 first of all, he wrote out (a) (long) list (of all the foods)
-```
+</code></pre>
 
-```shell
-练习
+<pre>
+<code class="language-shell">练习
 i like the book on the desk
 they are studying a complete resrarch about trading standard
 i will tell you a very funny chinese ancient story last night my English teacher had told me about moon
@@ -853,7 +856,8 @@ i will tell you a very funny chinese ancient story last night my English teacher
 i like the English book on the table
 they studying a complicated problem about trading standard
 i will tell you a very interesting old Chinese story about the moon that my teacher told me yesterday
-```
+</code></pre>
+
 
 ### 状语
 **概念**  
@@ -890,8 +894,8 @@ i will tell you a very interesting old Chinese story about the moon that my teac
 - 句子中指代同一个事物的两个词、短语或从句
 - 不属于单独的7大句子成分，和名词成分（主语，宾语，表语）是并列关系。相当于对该名词的进一步解释说明，名词或任何相当于名词的成分，均可作同位语。
 
-```shell
-练习
+<pre>
+<code class="language-shell">练习
 my English teacher,Mr. Brent Peyer is a Canadian
 last day,i met Tom,a friend of my brother
 we Chinese people is and brave
@@ -899,7 +903,8 @@ we Chinese people is and brave
 my English teacher, Mr. Brent Peyer, is a Canadian
 yesterday I met Tom,a friend of my brother's
 we Chinese people are hardworking and brave
-```
+</code></pre>
+
 
 # <span id='16'>4. 说和写英文的时候，如何避免犯时态错误</span>
 ## **学习时态的难点和原因**
