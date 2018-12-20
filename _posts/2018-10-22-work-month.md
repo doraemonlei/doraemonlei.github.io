@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十月总结"
+title: "【工作】十月总结"
 subtitle: " \"Hello World, Hello Work\""
 date: 2018-11-16 19:19:40
 author: "doraemonlei"

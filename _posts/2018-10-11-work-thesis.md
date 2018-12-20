@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "科研：研究生题目及资料"
+title: "【科研】研究生题目及资料"
 subtitle: " \"Hello World！\""
 date: 2018-10-11 09:27:15
 author: "doraemonlei"
