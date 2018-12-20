@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【工作】：项目总结"
+title: "【工作】项目总结"
 subtitle: " \"Hello World！\""
 date: 2018-12-20 09:39:34
 author: "doraemonlei"
