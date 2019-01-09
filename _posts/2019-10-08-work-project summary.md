@@ -12,27 +12,27 @@ tags: 工作
 
 # <font color = "red">目录</font>
 
-- **[2018.09.13儿童医院京津冀项目答辩](#1)**
-- **[2018.09.25朝阳区安贞社区卫生服务中心访谈记录](#2)**
-- **[2018.10.30中日友好医院开会记录](#3)**
-- **[2018.11.21睡眠学术交流会记录](#4)**
-- **[2018.12.13儿童医院眼科](#5)**
-- **[2018.12.17儿童医院OSAS汇报](#6)**
-- **[2018.12.19迪谱诊断肥胖](#7)**
-- **[2019.01.08安贞医院睡眠中心](#8)**
+- **[2018.09.13-儿童医院京津冀项目答辩](#1)**
+- **[2018.09.25-朝阳区安贞社区卫生服务中心访谈记录](#2)**
+- **[2018.10.30-中日友好医院开会记录](#3)**
+- **[2018.11.21-睡眠学术交流会记录](#4)**
+- **[2018.12.13-儿童医院眼科](#5)**
+- **[2018.12.17-儿童医院OSAS汇报](#6)**
+- **[2018.12.19-迪谱诊断肥胖](#7)**
+- **[2019.01.08-安贞医院睡眠中心](#8)**
 
 > 注：由于浏览器原因，不能直接展示高清原图，请使用ctrl+滚轮缩放页面比例查看或者拖动、右键保存后放大图片查看。
 
-# <span id='1'><font color = "red">2018.09.13儿童医院京津冀项目答辩</font></span>
+# <span id='1'><font color = "red">2018.09.13-儿童医院京津冀项目答辩</font></span>
 
 
-# <span id='2'><font color = "red">2018.09.25朝阳区安贞社区卫生服务中心访谈记录</font></span>
+# <span id='2'><font color = "red">2018.09.25-朝阳区安贞社区卫生服务中心访谈记录</font></span>
 
 <div align="center">
     <img src = "https://note.youdao.com/yws/api/personal/file/BC71AFD67F7E441B85C594D0D16DF31B?method=download&shareKey=71cbe034cae2b331db0dc9f7e7cc1eb5">
 </div>
 
-# <span id='3'><font color = "red">2018.10.30中日友好医院开会记录</font></span>
+# <span id='3'><font color = "red">2018.10.30-中日友好医院开会记录</font></span>
 
 ## <font color='red'>慢阻肺分级诊疗系统</font>
 
@@ -46,7 +46,7 @@ tags: 工作
     <img src = "https://note.youdao.com/yws/api/personal/file/1AF285755278455C945972D9968A86F9?method=download&shareKey=71cbe034cae2b331db0dc9f7e7cc1eb5">
 </div>
 
-# <span id='4'><font color = "red">2018.11.21睡眠学术交流会记录</font></span>
+# <span id='4'><font color = "red">2018.11.21-睡眠学术交流会记录</font></span>
 
 ## <font color='red'>正常儿童睡眠特点及多导睡眠监测-儿童医院许志飞</font>
 
@@ -60,7 +60,7 @@ tags: 工作
     <img src = "https://note.youdao.com/yws/api/personal/file/8669F38B9B0749AE84FE3FC4002546C4?method=download&shareKey=71cbe034cae2b331db0dc9f7e7cc1eb5">
 </div>
 
-# <span id='5'><font color = "red">2018.12.13儿童医院眼科</font></span>
+# <span id='5'><font color = "red">2018.12.13-儿童医院眼科</font></span>
 ## 1 数据与需求
 ### <font color = "red">角膜塑形镜治疗整理汇总表</font>
 **说明**    
@@ -113,7 +113,7 @@ tags: 工作
 2. 总结还需要的数据（字段）
 3. 我们使用的方法简单说明文件
 
-# <span id='6'><font color = "red">2018.12.17儿童医院OSAS汇报</font></span>
+# <span id='6'><font color = "red">2018.12.17-儿童医院OSAS汇报</font></span>
 ## 儿童医院人脸
 1. 分层分析特征差异
     - osas 轻中重
@@ -135,13 +135,13 @@ tags: 工作
 
 😃重点：论文数量，抢占先机
 
-# <span id='7'><font color = "red">2018.12.19迪谱诊断肥胖</font></span>
+# <span id='7'><font color = "red">2018.12.19-迪谱诊断肥胖</font></span>
 
 <div align="center">
     <img src = "https://note.youdao.com/yws/api/personal/file/74CA5352D5844F11BA42E5E3A984ADDF?method=download&shareKey=71cbe034cae2b331db0dc9f7e7cc1eb5">
 </div>
 
-# <span id='8'><font color = "red">2019.01.08安贞医院睡眠中心</font></span>
+# <span id='8'><font color = "red">2019.01.08-安贞医院睡眠中心</font></span>
 
 # <font color = "red">1 基于人脸图像的成人OSAHS筛查</font>
 ## 1.1 背景
