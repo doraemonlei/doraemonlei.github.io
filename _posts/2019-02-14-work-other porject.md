@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【其他项目】其他项目总结"
-subtitle: " \"Hello World, Hello Work\""
+subtitle: " \"Hello World!\""
 date: 2019-02-14 17:32:17
 author: "doraemonlei"
 #header-img: "img/post-bg-2015.jpg"
