@@ -7,7 +7,7 @@ author: "doraemonlei"
 #header-img: "img/post-bg-2015.jpg"
 #cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 categories: 
-tags: 眼科 分图 胸片
+tags: 眼科 分图 儿童肺炎
 ---
 
 # <font color='red'>儿童医院-眼科</font>
