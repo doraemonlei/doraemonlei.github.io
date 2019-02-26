@@ -100,6 +100,7 @@ POST
 ```
 
 ## <font color='red'>通用的ERROR_MESSAGE</font>
+
 |HTTP 状态代码|错误信息|说明|
 |---|---|---|
 |400|MISSING_ARGUMENTS: <key>|缺少某个必选参数。|
