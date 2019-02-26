@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【人脸诊断api】更新日志"
+title: "【人脸诊断api】文档中心"
 subtitle: " \"Hello World!\""
 date: 2019-02-18 10:42:32
 author: "doraemonlei"
