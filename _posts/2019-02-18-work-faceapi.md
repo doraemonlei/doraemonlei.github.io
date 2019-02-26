@@ -15,6 +15,7 @@ tags: api
 - **[文档中心](#0)**
 - **[2019.02.14-v1.0.0](#1)**
 - **[2019.02.18-v1.0.1](#2)**
+- **[2019.02.26-v1.0.2](#3)**
 
 # <span id='0'><font color='red'>文档中心</font></span>
 ## <font color='red'>版本</font>
@@ -170,7 +171,7 @@ curl -X POST "http://api.th-ehealth.com:32921/face/v1/"
         - 2 dlib人脸识别本身较慢
         - 3 程序逻辑问题
 
-# <span id='2'><font color='red'>2019.02.26</font></span>
+# <span id='3'><font color='red'>2019.02.26</font></span>
 - 版本
     - v1.0.2
 
