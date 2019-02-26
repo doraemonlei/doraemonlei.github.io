@@ -41,6 +41,7 @@ POST
 暂无设置
 
 ## <font color='red'>请求参数</font>
+
 |是否必选|参数名|类型|参数说明|
 |---|---|---|---|
 |必选|img|File|图片的二进制文件，需要用 post multipart/form-data 的方式上传。|
@@ -48,6 +49,7 @@ POST
 |必选|hp|String|身高百分位（'hp_\<3%', 'hp_3%~10%', 'hp_10%~25%', 'hp_25%~50%', 'hp_50%~75%','hp_75%~90%','hp_90%~97%'',hp_>97%'） |
 
 ## <font color='red'>返回值说明</font>
+
 |字段|类型|说明|
 |---|---|---|
 |time_used|float|预测所用时间|
@@ -62,7 +64,7 @@ POST
 待添加
 
 ## <font color='red'>成功请求返回值示例</font>
-```json
+```JSON
 {
     "time_used": 2.6634907722473145,
     "features": [
@@ -106,7 +108,7 @@ POST
 |413|Request Entity Too Large|客户发送的请求大小超过了2MB限制。该错误的返回格式为纯文本，不是json格式。|
 
 ## <font color='red'>调用示例</font>
-```shell
+```SHELL
 curl -X POST "http://api.th-ehealth.com:32921/face/v1/" 
 
 -F "height=<height>" \
