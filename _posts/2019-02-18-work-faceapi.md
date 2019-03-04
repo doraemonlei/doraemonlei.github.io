@@ -109,7 +109,7 @@ POST
 
 ## <font color='red'>调用示例</font>
 ```SHELL
-curl -X POST "http://api.th-ehealth.com:32921/face/v1/" 
+curl -X POST "https://api.th-ehealth.com:32904/face/v1/" 
 
 -F "height=<height>" \
 -F "hp=<hp>" \
