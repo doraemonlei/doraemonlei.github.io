@@ -193,3 +193,28 @@ curl -X POST "https://api.th-ehealth.com:32904/face/v1/"
         - 1 原图2M左右，处理较慢
         - 2 dlib人脸识别本身较慢
         - 3 程序逻辑问题
+
+# <span id='4'><font color='red'>2019.03.04</font></span>
+- 版本
+    - v1.0.2
+
+- 功能
+    - 特纳综合征识别
+    - 预处理图像
+
+- 新增
+
+- 修复
+
+- 优化
+    - 优化人脸url
+        - https://api.th-ehealth.com:32904/face/v1/
+- 删除
+
+- 即将删除
+
+- 问题
+    - 响应慢
+        - 1 原图2M左右，处理较慢
+        - 2 dlib人脸识别本身较慢
+        - 3 程序逻辑问题
