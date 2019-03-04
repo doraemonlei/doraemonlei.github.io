@@ -16,6 +16,7 @@ tags: api
 - **[2019.02.14-v1.0.0](#1)**
 - **[2019.02.18-v1.0.1](#2)**
 - **[2019.02.26-v1.0.2](#3)**
+- **[2019.03.04-v1.0.3](#4)**
 
 # <span id='0'><font color='red'>文档中心</font></span>
 ## <font color='red'>版本</font>
@@ -196,7 +197,7 @@ curl -X POST "https://api.th-ehealth.com:32904/face/v1/"
 
 # <span id='4'><font color='red'>2019.03.04</font></span>
 - 版本
-    - v1.0.2
+    - v1.0.3
 
 - 功能
     - 特纳综合征识别
