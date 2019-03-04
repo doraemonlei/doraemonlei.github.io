@@ -104,10 +104,8 @@ POST
 
 |HTTP 状态代码|错误信息|说明|
 |---|---|---|
-|400|MISSING_ARGUMENTS: <key>|缺少某个必选参数。|
-|400|BAD_ARGUMENTS:<key>|某个参数解析出错（比如必须是数字，但是输入的是非数字字符串; 或者长度过长等.）|
 |400|IMAGE_ERROR_UNSUPPORTED|图像未检测到人脸，请重新上传。|
-|413|Request Entity Too Large|客户发送的请求大小超过了2MB限制。该错误的返回格式为纯文本，不是json格式。|
+
 
 ## <font color='red'>调用示例</font>
 ```SHELL
