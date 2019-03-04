@@ -33,7 +33,7 @@ tags: api
 - 最小人脸像素尺寸： 系统能够检测到的人脸框为一个正方形，正方形边长的最小值为图像短边长度的 24 分之一，最小值不低于 100 像素。 例如图片为 4096\*3200 像素，则最小人脸像素尺寸为 132\*132 像素。
 
 ## <font color='red'>调用URL</font>
-http://api.th-ehealth.com:32921/face/v1/
+https://api.th-ehealth.com:32904/face/v1/
 
 ## <font color='red'>调用方法</font>
 POST
