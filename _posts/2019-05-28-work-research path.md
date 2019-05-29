@@ -201,7 +201,7 @@ tags: 科研 学习
 - 什么是知识图谱？ https://zhuanlan.zhihu.com/p/34393554
 - 智能搜索时代：知识图谱有何价值？ https://zhuanlan.zhihu.com/p/35982177?from=1084395010&wm=9848_0009&weiboauthoruid=5249689143
 - 百度王海峰：知识图谱是 AI 的基石 http://www.infoq.com/cn/news/2017/11/Knowledge-map-cornerstone-AI#0-tsina-1-5001-397232819ff9a47a7b7e80a40613cfe1
-- 译文|从知识抽取到RDF知识图谱可视化 http://rdc.hundsun.com/portal/article/907.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+- 从知识抽取到RDF知识图谱可视化 http://rdc.hundsun.com/portal/article/907.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 ## <font color='red'>3 主要内容</font>
 ### 3.1 知识提取
