@@ -22,6 +22,7 @@ tags: 科研 学习
 - **[AI实战路线-自然语言处理](#8)**
 
 > 注：详细内容推荐阅读黄海广博士公众号：[重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247484212&idx=1&sn=18de3f24ff47ff0e096c38ce90a8d95d&chksm=c0791e2df70e973b03a0496ac045974f581bade3a05aa1416104b5556a515acf0ee07a1c3554&mpshare=1&scene=1&srcid=&key=cc7d6364edc5eb3efc5f94508b969e2a4ad0cb50e26a5c7b8790f23b6fad38079abedbcfc59ac0eac9a4553312f9e0c49d46ef291a76f4c0e98ac5615a8cffb2208acf7ae054bbfdf21a4b9ad1cdf56e&ascene=1&uin=MjAwMTEzODAwMQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=dQlw5%2Fy314wtyVnLqvTEy8VwvKP4fLqf31WrVI3%2B7sWLls7E7xoR%2FIbdaLLhCsN%2B)
+
 # <font color='red'><span id='1'>数字医疗健康工程研究中心</span></font>
 
 ## 简介
