@@ -45,7 +45,7 @@ tags: 科研 学习
     - [可汗学院统计学](http://open.163.com/special/Khan/khstatistics.html)
 - Python编程
     - 安装：Anaconda
-    - IDF：Pycharm
+    - IDE：Pycharm
     - 学习
         - [廖雪峰](https://blog.csdn.net/datawhale/article/category/7779959)
         - [python入门笔记,提取码: 2bzh](https://pan.baidu.com/s/1IPZI5rygbIh5R5OuTHajzA)
