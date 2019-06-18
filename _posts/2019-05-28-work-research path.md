@@ -54,6 +54,7 @@ tags: 科研 学习
         - [代码规范](https://zhuanlan.zhihu.com/p/59763076)
         - [numpy练习题](https://zhuanlan.zhihu.com/p/57872490)
         - [pandas练习题](https://zhuanlan.zhihu.com/p/56644669)
+        - [数据科学速查表【Numpy,Pandas,Sklearn,Keras,Pyspark等】](https://zhuanlan.zhihu.com/p/65405562)
 
 ## <font color='red'>数据分析/挖掘</font>
 - 数据分析
