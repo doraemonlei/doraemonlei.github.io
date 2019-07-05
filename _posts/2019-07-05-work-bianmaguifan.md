@@ -35,6 +35,7 @@ tags: 机器学习 编码规范
     - LICENSE
 
 > 参考，根据实际情况进行优化更改
+
 ## <font color='red'>api接口项目目录</font>
 - apiproject
     - static：包括数据，模型等文件
@@ -61,7 +62,9 @@ tags: 机器学习 编码规范
     - LICENSE
 
 > 参考，根据实际情况进行优化更改
+
 # <span id='1'><font color='red'>项目编码规范</font></span>
+
 > 针对以Python语言为主开发的项目
 
 ## <font color='red'>1 重要原则</font>
