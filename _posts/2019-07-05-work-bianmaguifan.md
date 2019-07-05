@@ -119,7 +119,7 @@ tags: 机器学习 编码规范
 
 - 多行文档字符串结尾的""" 应该单独成行。
 
-- 版本注记：定义一个变量__version__ = "$Revision: 1.4 $"
+- 版本注记：定义一个变量__version__ = "\$Revision: 1.4 \$"
 
 ## <font color='red'>5 程序设计</font>
 - 与None之类的单值比较，永远用:'is'或'is not'来做：if x is not None
